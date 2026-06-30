@@ -62,10 +62,10 @@ pins what they produced. All three recompute offline from retained bytes.
 
 task_ref carries an open licence for A2A partners.
 
-### Under Apache 2.0 License
+### Under Apache 2.0 Licence
 
 Implementers may adopt, implement, and build on it freely under Apache 2.0. Retain the NOTICE file and licence header in derivative works.
 
-## License
+## Licence
 
 Apache 2.0. Copyright (c) 2026 AlgoVoi (chopmob-cloud).
