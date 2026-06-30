@@ -60,7 +60,7 @@ pins what they produced. All three recompute offline from retained bytes.
 
 ## A2A Ecosystem
 
-task_ref is published for the A2A ecosystem under the Apache 2.0 licence. Any A2A partner, implementer, or framework is free to adopt, implement, and build on it without asking permission. Retain the NOTICE file and licence header in derivative works, as required by Apache 2.0.
+task_ref is published as an open primitive for the A2A ecosystem. Any A2A partner, implementer, or framework is free to adopt, implement, and build on it. Apache 2.0: retain the NOTICE file and licence header in derivative works.
 
 ## License
 
