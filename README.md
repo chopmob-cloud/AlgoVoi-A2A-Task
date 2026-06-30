@@ -58,9 +58,9 @@ Python and Node runners.
 card_ref pins who the agent is. task_ref pins what they were asked to do. artifact_ref (AlgoVoi-A2A-Artifact)
 pins what they produced. All three recompute offline from retained bytes.
 
-## A2A Ecosystem
+## Open Licence for A2A Partners
 
-task_ref is published as an open primitive for the A2A ecosystem. Any A2A partner, implementer, or framework is free to adopt, implement, and build on it. Apache 2.0: retain the NOTICE file and licence header in derivative works.
+task_ref carries an open licence for A2A partners. Any A2A partner, implementer, or framework may adopt, implement, and build on it freely under Apache 2.0. Retain the NOTICE file and licence header in derivative works.
 
 ## License
 
