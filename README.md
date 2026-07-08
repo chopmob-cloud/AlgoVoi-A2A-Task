@@ -66,6 +66,12 @@ task_ref carries an open licence for A2A partners.
 
 Implementers may adopt, implement, and build on it freely under Apache 2.0. Retain the NOTICE file and licence header in derivative works.
 
+## Keystone (L2)
+
+task_ref is an L1 content-addressed primitive. It composes into Keystone, AlgoVoi's open L2 layer, as the task element of a recomputable chain: card_ref (agent identity), then task_ref (the task), then artifact_ref (the output), each binding the prior by hash. Here task_ref records what the agent was asked, binding the agent identity.
+
+Every element recomputes independently from retained bytes, so each one can be verified, or challenged, on its own rather than as one opaque record. Further elements (a quote, a settlement receipt, a compliance verdict) attach as additional Keystone steps without changing the existing refs. No lock-in: the L1 refs stand alone under Apache 2.0, and Keystone is the optional L2 that composes them.
+
 ## Licence
 
 Apache 2.0. Copyright (c) 2026 AlgoVoi (chopmob-cloud).
