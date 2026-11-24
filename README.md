@@ -1,5 +1,8 @@
 # task_ref
 
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
+
 A deterministic, content addressed reference to an A2A Task delegation.
 
     task_ref = "sha256:" + SHA-256(JCS({card_ref, instructions_hash, created_at_ms}))
